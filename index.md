@@ -1,6 +1,7 @@
 ## Welcome 
 
-My name is ÖÜÔóÏë£¨Zhou zexiang£©. 
+My name is Zhou zexiang.
+ 
 I am an IBI1 student at ZJU-UoE institute, Zhejiang University.
 
 [webpage](https://c.zju.edu.cn/) 
